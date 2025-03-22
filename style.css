@@ -297,7 +297,7 @@ nav {
 .about-image {
     width: 45%;
     height: 500px;
-    background-image: url('assests/team.jpg');
+    background-image: url('team.jpg');
     background-size: cover;
     background-position: center;
     border-radius: var(--border-radius);
